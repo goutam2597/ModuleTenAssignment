@@ -1,16 +1,2 @@
-# module_ten_profile_assignment
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230719_225025](https://github.com/goutam2597/ModuleTenAssignment/assets/134217195/6ca53699-7e7e-44f7-b84d-6ce8a736499e)
+![Screenshot_20230719_225038](https://github.com/goutam2597/ModuleTenAssignment/assets/134217195/e91445fd-a6c3-418d-9ea9-2e70f41f40ee)
